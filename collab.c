@@ -72,6 +72,14 @@ void jgongo2_pkoby2_kseki3() {
            "You can make multiple commmits before pushing to the repository.\n");
 }
 
+
+void jjung65_bzhao27_dbara7() {
+  printf("Jiwon Jung, Baizhao Zhao, Daniel Barajas\n");
+  printf("We learned that using git through replit is much easier than with our computers, \n");
+  printf("because we all have different settings on our computers.");
+  printf("We also learned that version control is very important especially working as a team.\n");
+}
+
 int main() {
   printf(
       "This code has been created by the students of CS 211, Spring 2023!\n\n");
@@ -83,6 +91,7 @@ int main() {
   dkhar3_nvaly2();
   amari9_asurka2();
   jgongo2_pkoby2_kseki3();
+  jjung65_bzhao27_dbara7();
 
   return 0;
 }
